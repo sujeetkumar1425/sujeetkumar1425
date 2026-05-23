@@ -38,7 +38,7 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 
 ---
 
-## 📊 GitHub Stats
+
 
 <!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujeetkumar1425&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -46,7 +46,7 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkumar1425&layout=compact&theme=tokyonight&hide_border=true"/>
 </p> -->
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -72,7 +72,7 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 
 ---
 
-## 💡 Quote
+
 
 <p align="center">
 "Code. Learn. Build. Repeat."
