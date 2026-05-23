@@ -73,7 +73,14 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 ---
 
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujeetkumar1425/sujeetkumar1425/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+---
 <p align="center">
 "Code. Learn. Build. Repeat."
 </p>
