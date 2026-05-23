@@ -1,0 +1,85 @@
+<h1 align="center">Hi 👋, I'm Sujeet Kumar</h1>
+
+<h3 align="center">
+Passionate Programmer | Problem Solver | Aspiring Software Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Passionate about programming and software development
+- 💻 Skilled in **C, C++, Java, Python, MySQL, HTML & CSS**
+- 🌱 Currently improving my development and problem-solving skills
+- 🚀 Interested in building real-world projects and learning modern technologies
+- ⚡ Goal: Become a successful Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,html,css,vscode,git,github" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/notsujeet/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujeetkumar1425&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkumar1425&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetkumar1425&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujeetkumar1425&theme=tokyo-night" />
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sujeetkumar1425&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+"Consistency and hard work are the keys to success."
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/sujeetkumar1425">Sujeet Kumar</a>
+</p>
