@@ -12,11 +12,11 @@ Passionate Programmer | Problem Solver | Aspiring Software Developer
 
 ## 🚀 About Me
 
-- 🎓 Passionate about programming and software development
-- 💻 Skilled in **C, C++, Java, Python, MySQL, HTML & CSS**
-- 🌱 Currently improving my development and problem-solving skills
-- 🚀 Interested in building real-world projects and learning modern technologies
-- ⚡ Goal: Become a successful Software Engineer
+- 🎓 Passionate about programming and software development.
+- 💻 Skilled in **C, C++, Java, Python, MySQL, HTML & CSS**.
+- 🌱 Currently improving my development and problem-solving skills.
+- 🚀 Interested in building real-world projects and learning modern technologies.
+- ⚡ Goal: Become a successful Software Engineer.
 
 ---
 
